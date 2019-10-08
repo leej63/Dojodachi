@@ -1,0 +1,11 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+}
+
+.main_box{
+    border: solid 2px black;
+}
